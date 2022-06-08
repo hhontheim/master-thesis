@@ -1,3 +1,6 @@
 [submodule "bibliography/sources"]
 	path = bibliography/sources
 	url = git@github.com:hhontheim/master-thesis-sources.git
+[submodule "misc"]
+	path = misc
+	url = git@github.com:hhontheim/master-thesis-misc.git
